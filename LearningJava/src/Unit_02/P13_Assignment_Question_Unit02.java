@@ -19,7 +19,7 @@ class Assignment_Question_Unit02{
 		Sample3 obj = new Sample3() ; 
 		obj.run() ; 
 		obj.run(1) ;
-		obj.run(1,2) ; 	
+		obj.run(1,2); 	
 		
 		obj.display() ; 
 	}
