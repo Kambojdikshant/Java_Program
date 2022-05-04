@@ -23,7 +23,8 @@ public class P4_Task02_WrapperClassesInJava {
 		// unboxing converting objects to primitives 
 		byte bytevalue = byteobj ; 
 		System.out.println(bytevalue);
-
+         a =i.hashCode() ; 
+         System.out.println(a);
 	}
 
 }
