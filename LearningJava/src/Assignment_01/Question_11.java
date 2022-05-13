@@ -9,7 +9,7 @@ the ternary operation on variable a and b.
 Note: Ternary operator can call a method even for true and false values
  */
 import java.util.Scanner ; 
-public class Question_06 {
+public class Question_11 {
     static  int sum(int a, int b)
     {
     	return a+b ; 
